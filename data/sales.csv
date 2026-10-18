@@ -1,0 +1,6 @@
+order_id,customer,product,quantity,unit_price,order_date
+1, alice ,Widget,3,9.99,2026-10-01
+2,BOB,Gadget,1,24.50,2026-10-02
+3,carol,widget,,9.99,2026-10-02
+4,dave,Gizmo,2,abc,2026-10-03
+5,Eve,gadget,4,24.50,2026-10-04
