@@ -4,3 +4,4 @@ order_id,customer,product,quantity,unit_price,order_date
 3,carol,widget,,9.99,2026-10-02
 4,dave,Gizmo,2,abc,2026-10-03
 5,Eve,gadget,4,24.50,2026-10-04
+6,waqar hassan,Widget,2,9.99,2026-10-05
